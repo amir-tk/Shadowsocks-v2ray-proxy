@@ -7,7 +7,7 @@
 ## Install Shadowsocks, v2ray Plugin and Certbot
 To install Shadowsocks with v2ray plugin, just run command on your Ubuntu machine.
 ```bash
-wget https://t.ly/ssv2ray -O ssv2ray.sh&& bash ssv2ray.sh
+wget https://t.ly/ssv2ray -O ssv2ray.sh && bash ssv2ray.sh
 ```
 
 ## Configure iptables
