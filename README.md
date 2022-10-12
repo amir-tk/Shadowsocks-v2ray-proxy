@@ -1,7 +1,19 @@
 # Shadowsocks with v2ray plugin
 
+# Requirement
+- Point your domain or subdomain to the IP address with A record. (You can use Cloudflare)
+- A VPS with Ubuntu 18.04 or 20.04 or 22.04
+
+To install Shadowsocks with v2ray plugin, just run command on your Ubuntu machine.
 ```bash
 wget https://t.ly/yjlW -O ssv2ray.sh && bash ssv2ray.sh
 ```
 
-### Under construction.
+## Clients
+
+- iOS: [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
+- Android: [Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks&hl=en&gl=US) - [V2ray Plugin](https://play.google.com/store/apps/details?id=com.github.shadowsocks.plugin.v2ray&hl=en&gl=US)
+- Windows: [Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases) - [V2ray Plugin](https://github.com/shadowsocks/v2ray-plugin/releases)
+- Linux: [Shadowsocks](#) - [V2ray Plugin](https://github.com/shadowsocks/v2ray-plugin/releases)
+
+#### Under construction.
