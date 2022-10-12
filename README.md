@@ -19,7 +19,7 @@ wget https://t.ly/ipint -O iptables-internal.sh && bash iptables-internal.sh
 
 Run this command on your external server:
 ```
-wget https://t.ly/ipext -O && iptables-external.sh bash iptables-external.sh
+wget https://t.ly/ipext -O iptables-external.sh && bash iptables-external.sh
 ```
 
 If you want to use tunneling, use the internal server IP instead of the external IP in the Shadowsocks client.
